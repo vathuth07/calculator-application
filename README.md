@@ -1,2 +1,2 @@
-# calculator-application
-this program create a basic calculator using GUI.
+# python projects
+python project that improve your programming knowledge
